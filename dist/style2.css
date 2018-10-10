@@ -17,6 +17,9 @@
 .mytab{
     font-weight: bold;
 }
+.myimage{
+  padding: 5px;
+}
  #photo-head{
      text-align: center;
      font-size: 35px;
